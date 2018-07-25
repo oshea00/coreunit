@@ -1,0 +1,17 @@
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.test.deps.json
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.test.runtimeconfig.json
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.test.runtimeconfig.dev.json
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.test.dll
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.test.pdb
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.dll
+C:\Users\mike\repos\nodesvc\nodesvc.test\bin\Debug\netcoreapp2.0\nodesvc.pdb
+C:\Users\mike\repos\nodesvc\nodesvc.test\obj\Debug\netcoreapp2.0\nodesvc.test.csprojResolveAssemblyReference.cache
+C:\Users\mike\repos\nodesvc\nodesvc.test\obj\Debug\netcoreapp2.0\nodesvc.test.csproj.CoreCompileInputs.cache
+C:\Users\mike\repos\nodesvc\nodesvc.test\obj\Debug\netcoreapp2.0\nodesvc.test.AssemblyInfoInputs.cache
+C:\Users\mike\repos\nodesvc\nodesvc.test\obj\Debug\netcoreapp2.0\nodesvc.test.AssemblyInfo.cs
+C:\Users\mike\repos\nodesvc\nodesvc.test\obj\Debug\netcoreapp2.0\nodesvc.test.dll
+C:\Users\mike\repos\nodesvc\nodesvc.test\obj\Debug\netcoreapp2.0\nodesvc.test.pdb
